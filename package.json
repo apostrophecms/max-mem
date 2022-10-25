@@ -1,0 +1,23 @@
+{
+  "name": "max-mem",
+  "version": "1.0.0",
+  "description": "Measure maximum memory usage of a command",
+  "main": "app.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "max-mem": "./app.mjs"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apostrophecms/max-mem.git"
+  },
+  "author": "Apostrophe Technologies",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apostrophecms/max-mem/issues"
+  },
+  "homepage": "https://github.com/apostrophecms/max-mem#readme"
+}
